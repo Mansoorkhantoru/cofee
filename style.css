@@ -1,0 +1,185 @@
+@media screen and (min-width:637px){
+   body{
+      background-image: url("./coffee-wallpaper_943281-105592.jpg");
+      background-repeat:inherit;
+      background-size: cover;
+      background-attachment: fixed;
+   }
+   nav a{
+      display: inline;
+    
+      background-color: beige;
+      border-radius: 10px;
+      color: black;
+      text-decoration: none;
+      padding: 3px;
+      font-size: 10px;
+      transition: 1s ease;
+      margin: 1px;
+    
+   }
+   a:hover{
+      background-color:  rgb(76, 32, 4);
+   } 
+   nav{
+      margin-top: -87px;
+      margin-right: 2px;
+      float: right;
+   
+   }
+   #con{
+      color: white;
+      margin: 100px 0px 0px 50px;
+      font-size: 20px;
+   }
+   #cofe h1{
+     /* text-align: center; */
+      color: wheat;
+      margin: 220px auto 5px auto;
+      border-bottom: 2px solid wheat;
+      width: 160px;
+      display: block;
+   
+   }
+   img{
+      border-radius: 5px;
+      margin-top: -20px;  
+   }
+   .images , .imag{
+      margin: 50px 0px 0px 140px;
+   }
+   p{
+      background-image: url("./fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.avif");
+      display: block;
+      color: wheat;
+      border-radius: 10px;
+      padding:0px 5px 40px 5px;
+      float: left;
+      margin: 15px 35px 5px 35px ;
+   
+   }
+   p:hover{
+      margin-top: 4px ;
+      background-image: url("./coffee-cups-saucers-dark-background_950347-29544.avif");
+   }
+   #cofe .images , .imag {
+      display: inline-block;
+   }
+   .ice{
+      color: white;
+      margin: 100px 0px 0px 68px;
+   }
+   .ice h1{
+      color: wheat;
+      margin: 80px auto 5px auto;
+      border-bottom: 2px solid wheat;
+      width: 180px;
+      display: block;
+   }
+   .coldimg{
+      margin: 50px 0px 0px 65px;
+   }
+   #beans h1{
+      color: wheat;
+      margin: 250px auto 50px auto;
+      border-bottom: 2px solid wheat;
+      width: 84px;
+      display: block;
+   }
+   .be{
+      margin: 50px 0px 0px 130px;
+   }
+}
+@media screen and (max-width:637px){
+   body{
+      background-image: url("./coffee-wallpaper_943281-105592.jpg");
+      background-repeat:inherit;
+      background-size: cover;
+      background-attachment: fixed;
+   }
+   nav a{
+      display: inline;
+    
+      background-color: beige;
+      border-radius: 10px;
+      color: black;
+      text-decoration: none;
+      padding: 3px;
+      font-size: 10px;
+      transition: 1s ease;
+      margin: 1px;
+    
+   }
+   a:hover{
+      background-color:  rgb(76, 32, 4);
+   } 
+   nav{
+      margin-top: -87px;
+      margin-right: 2px;
+      float: right;
+   
+   }
+   #con{
+      color: white;
+      margin: 100px 0px 0px 50px;
+      font-size: 20px;
+   }
+   #cofe h1{
+     /* text-align: center; */
+      color: wheat;
+      margin: 330px auto 5px auto;
+      border-bottom: 2px solid wheat;
+      width: 160px;
+      display: block;
+   
+   }
+   img{
+      border-radius: 5px;
+      margin-top: -20px;  
+   }
+   .images , .imag{
+      margin: 10px 0px 0px 90px;
+   }
+   p{
+      background-image: url("./fresh-coffee-steams-wooden-table-close-up-generative-ai_188544-8923.avif");
+      display: block;
+      color: wheat;
+      border-radius: 10px;
+      padding:0px 5px 40px 5px;
+      float: left;
+      text-align: center;
+      margin: 105px 20px 5px 5px ;
+   
+   }
+   p:hover{
+      margin-top: 2px ;
+      background-image: url("./coffee-cups-saucers-dark-background_950347-29544.avif");
+   }
+   #cofe .images , .imag {
+      display: inline-block;
+   }
+   .ice{
+      color: white;
+      margin: 100px 0px 0px 6px;
+   }
+   .ice h1{
+      color: wheat;
+      margin: 80px auto 5px auto;
+      border-bottom: 2px solid wheat;
+      width: 180px;
+      display: block;
+   }
+   .coldimg{
+      margin: 50px 0px 90px 80px;
+   }
+   #beans h1{
+      color: wheat;
+      margin: 800px auto 50px auto;
+      border-bottom: 2px solid wheat;
+      width: 84px;
+      display: block;
+   }
+   .be{
+      margin: 50px 0px 0px 80px;
+   }
+}
